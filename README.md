@@ -6,6 +6,7 @@
   - NodeJS
   - Web Development
 - 📫 Reach me by **richardlimsiuchun@gmail.com**
+- 💻 [Personal Site](https://richard-lim-siu-chun.web.app/)
 
 <!---
 rl-schun/rl-schun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
